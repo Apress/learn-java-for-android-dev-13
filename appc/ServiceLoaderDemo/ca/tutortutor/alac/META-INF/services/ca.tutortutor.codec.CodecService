@@ -1,0 +1,2 @@
+# multiple codecs could be listed, but only one is present for now
+ca.tutortutor.alac.ALACCodecServiceImpl
